@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T13:00:15.587Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.3.189 (beta) Yowser/2.5 Safari/537.36" etag="5dmTe-AL2SG6OcCWus1f" version="13.10.9" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">5VnZdtMwEP2aPNJjy2sfm60sBQotFHgTsWqb2lGQFZLw9ciWZI9spw09J0mhL4o0Hm0zd+6MnYEzytfnDC+StzQi2QBZ0XrgjAcI2baHxE8p2UiJ54dSELM0UkqN4Cr9TZTQUtJlGpHCUOSUZjxdmMIZnc/JjBsyzBhdmWq3NDN3XeCYdARXM5x1pTdpxBMpDVHQyF+SNE70zrZ/Kp/kWCurmxQJjugKiJzJwBkxSrns5esRyUrjabvcvNrcZBd3/vnrD8VP/Gn45vrd5xdysenfTKmvwMicP3pp5r93r7/9CIu78OI8Du8+LmbfXyjn/sLZUtlL3ZVvtAFJJOyphpTxhMZ0jrNJIx0yupxHpNzGEqNG54LShRDaQviDcL5R4MBLToUo4Xmmnso9y41aPnvgwkqvoEs2I/fcUjmQYxYTfo+eXXtVhAOhOeFsI+YxkmGe/jIPhxUu41qvsb3oKPP/hSusriuEcUJrIKw69KrWqdqwkttVC3Wsqu8DnWnHmcDoES6S2mmrJOWkWODKjCvBBEIm8L4oh/k6LqnhJLqNTgphQ64OShgn60c4rGtgtYrgFrmOohpHmWTVxK1jK5UExGxo7ckl3rOIDs3KD0WHe8zosHuiQ+D8rGqHGvOiHet4qaIDydBAoJ1UrQvCRNzqrLRwjlNxjpGeNAVRZYGpw0oyAppy55GOOT/jZfgs8Fz0Y165UOrKiK3jeQjO6oIdxmBtF5wCqT7qHsoHyh4wRKgk6lDC9ua5WnCueODK5IFtnLE3GghsgwbqUgLwAAp7eMBG+yICewv8tHP+Q1Zwd82ZVr8zD0QLzrOg6J2dgY7pDLc/SKY93Fn2AyBHfdwoWdYC5Y5TtaeANm0wEWkdmABaYGAJzb8vC13yHJnqnMA1qM7tKXl0dXOQisfeUoU6IIF6gPomII+NgN+mQLNOZd1kXWeqOlmLTgBcOgEZXAiHeqizvBqOOpnQMwCl1IJORu/W1bCiDjtpFoEVkMZyDcNuvf0UQGZrp2qQuT351HK7KPP3hrJnUlijXWn7uKV1z0cAheka94FZi3Zje9wJkgkIrTqMd8wFrYoXZoSnGWOe3SLynhiry9PDxNiWbOyaFt3mzwA8mpo0WEHDcHv9RnI/ZFpvJIcHjk4lZWRx8bI3Y/k/gSYvPDqa/IcZ+0l/W/Ic06RBsFul5ezNosEOOXAenZWfwMVoluGiSGcmGIVB2OZLaeYTTw+/msPxWnlBjsrbl+lXjS8JS8V1CDMA/eiM+HCi8/udBJzg9ThBy3bOh2qHS5qKYzcYCJCBAd9tOVdmdDULgU/prYV8ZC7knbYWkoboLFQBpb52H3bEsPlDQao3f8s4kz8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-10T15:00:43.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 YaBrowser/20.9.3.189 (beta) Yowser/2.5 Safari/537.36" etag="DsTRbQHp0oVuVjsDG4o3" version="13.11.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1152" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r6O4TZj8sk8LGg8kRpcb-0" target="r6O4TZj8sk8LGg8kRpcb-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-0" value="регистрация" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="256" y="30" width="316" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r6O4TZj8sk8LGg8kRpcb-1" target="r6O4TZj8sk8LGg8kRpcb-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-1" value="клинет вводит: email, пароль, имя&lt;span&gt;, телефон, дата рождение&lt;/span&gt;" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="271" y="210" width="286" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-11" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r6O4TZj8sk8LGg8kRpcb-4" target="r6O4TZj8sk8LGg8kRpcb-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r6O4TZj8sk8LGg8kRpcb-4" target="r6O4TZj8sk8LGg8kRpcb-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-4" value="пользовтель существует" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="374" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-10" value="уведолмляем клиент что вы не можете зарегитрироваться" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="440" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r6O4TZj8sk8LGg8kRpcb-12" target="r6O4TZj8sk8LGg8kRpcb-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-12" value="создаем нового пользователя" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="514" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PjoKcejz6458Isf5pgJl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r6O4TZj8sk8LGg8kRpcb-14" target="PjoKcejz6458Isf5pgJl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6O4TZj8sk8LGg8kRpcb-14" value="делаем запрос на создание нового пользователя в retailcrm" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="514" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PjoKcejz6458Isf5pgJl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PjoKcejz6458Isf5pgJl-2" target="PjoKcejz6458Isf5pgJl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PjoKcejz6458Isf5pgJl-2" value="если есть корзина, у пользователя то назначем id пользователя" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PjoKcejz6458Isf5pgJl-4" value="создаем токен&lt;br&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
